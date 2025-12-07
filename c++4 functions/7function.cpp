@@ -1,0 +1,1 @@
+// read the cocept of inline function

@@ -1,0 +1,1 @@
+// calculate the value of nCr where n and r are enterd by the user.

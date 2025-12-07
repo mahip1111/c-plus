@@ -1,1 +1,0 @@
-// learn it from the chatgpt (given in operators section of code with harry tutorial)
